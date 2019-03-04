@@ -1,0 +1,46 @@
+{
+  "_from": "@browser-logos/firefox",
+  "_id": "@browser-logos/firefox@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-hipDa6+M66OpIk3DWI5iTCpZ+vC7/+boedmcgOH7iemAhvQw3fuNuoIWhfHiufsSVGGVsCpp1Ax0lvx8owUYMQ==",
+  "_location": "/@browser-logos/firefox",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@browser-logos/firefox",
+    "name": "@browser-logos/firefox",
+    "escapedName": "@browser-logos%2ffirefox",
+    "scope": "@browser-logos",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@browser-logos/firefox/-/firefox-2.0.0.tgz",
+  "_shasum": "dc1bf103e2a81772b34e7b1cdbc9b7330ccfbdd0",
+  "_spec": "@browser-logos/firefox",
+  "_where": "/home/daniel/Development/totem",
+  "bugs": {
+    "url": "https://github.com/alrra/browser-logos/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Firefox browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "firefox",
+    "firefox-logo"
+  ],
+  "name": "@browser-logos/firefox",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alrra/browser-logos.git"
+  },
+  "version": "2.0.0"
+}

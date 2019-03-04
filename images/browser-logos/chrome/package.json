@@ -1,0 +1,46 @@
+{
+  "_from": "@browser-logos/chrome",
+  "_id": "@browser-logos/chrome@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-OeQwNTSoRlSASXjSn5Gf14RbCYmw5I2U6q1k2edSHYuY8yYjIupgF/qMJJ+QydBb1RcVoUCkgy3SGY8pumSh8w==",
+  "_location": "/@browser-logos/chrome",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@browser-logos/chrome",
+    "name": "@browser-logos/chrome",
+    "escapedName": "@browser-logos%2fchrome",
+    "scope": "@browser-logos",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@browser-logos/chrome/-/chrome-1.0.4.tgz",
+  "_shasum": "fa196a3188369fe954ff612df882b365dd659d46",
+  "_spec": "@browser-logos/chrome",
+  "_where": "/home/daniel/Development/totem",
+  "bugs": {
+    "url": "https://github.com/alrra/browser-logos/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Chrome browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "chrome",
+    "chrome-logo"
+  ],
+  "name": "@browser-logos/chrome",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alrra/browser-logos.git"
+  },
+  "version": "1.0.4"
+}

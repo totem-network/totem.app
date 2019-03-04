@@ -1,0 +1,46 @@
+{
+  "_from": "@browser-logos/opera",
+  "_id": "@browser-logos/opera@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-DP5VCQRqpp1XkT3+Eu3DK61qHrceOHWYDm05Kubw/XqHeq679j+/LHa719pN1fB1cwv7O1BuKXRe/IL9KXR1cw==",
+  "_location": "/@browser-logos/opera",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@browser-logos/opera",
+    "name": "@browser-logos/opera",
+    "escapedName": "@browser-logos%2fopera",
+    "scope": "@browser-logos",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@browser-logos/opera/-/opera-1.1.1.tgz",
+  "_shasum": "87c9857cb0011c8bc60234fb1c97a931c5aea169",
+  "_spec": "@browser-logos/opera",
+  "_where": "/home/daniel/Development/totem",
+  "bugs": {
+    "url": "https://github.com/alrra/browser-logos/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Opera browser logo",
+  "homepage": "https://github.com/alrra/browser-logos",
+  "keywords": [
+    "browser-logos",
+    "logo",
+    "opera",
+    "opera-logo"
+  ],
+  "name": "@browser-logos/opera",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alrra/browser-logos.git"
+  },
+  "version": "1.1.1"
+}
