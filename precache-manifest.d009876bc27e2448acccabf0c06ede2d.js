@@ -12,25 +12,25 @@ self.__precacheManifest = [
     "url": "images/launcher-background.svg"
   },
   {
-    "url": "launcher.075d95633c535c77d016.js"
+    "url": "launcher.0a210956182e0b12d1e6.js"
   },
   {
-    "url": "runtime~app.f51ac5b2d6f372cca9c6.js"
+    "url": "runtime~app.0e4039530399391915cb.js"
   },
   {
-    "url": "side-nav.a8c0df9be0840c32e6ab.js"
+    "url": "side-nav.c7ee9db50823fd9871c9.js"
   },
   {
-    "url": "vendors~3box.1af6b03e08a2707bccf1.js"
+    "url": "vendors~3box.b717de1a07a9d6ad5d70.js"
   },
   {
-    "url": "vendors~app.ddc799f160eca23c5327.js"
+    "url": "vendors~app.cd3ce55032c6e2816731.js"
   },
   {
-    "url": "windows.918c0d67708dfe7fbff4.js"
+    "url": "windows.fbdfad53e42c09546efe.js"
   },
   {
-    "revision": "f2227e6e63aac20b2ad6ff530e5c0d84",
+    "revision": "62bb42ab7104e0ff6e6a09d2afa6b1c1",
     "url": "index.html"
   },
   {
@@ -46,28 +46,28 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/lpt.svg"
   },
   {
-    "revision": "e942b738de07700359748d40488ebdd5",
-    "url": "images/cryptocurrency-icons/$pac.svg"
-  },
-  {
-    "revision": "1aa1a205fcd737f695bbdf2ad609fb0c",
-    "url": "images/cryptocurrency-icons/add.svg"
+    "revision": "80e1f2c96a61b0a8a2d527746e07d5cc",
+    "url": "images/cryptocurrency-icons/2give.svg"
   },
   {
     "revision": "2efc44f82a7dd7279bf36f17e3179362",
     "url": "images/cryptocurrency-icons/actn.svg"
   },
   {
-    "revision": "ef6bb3b2bf90896043e0055d918edc0f",
-    "url": "images/cryptocurrency-icons/ada.svg"
+    "revision": "1aa1a205fcd737f695bbdf2ad609fb0c",
+    "url": "images/cryptocurrency-icons/add.svg"
+  },
+  {
+    "revision": "e85885414eb9b26a9bdbbccf9d91c0b6",
+    "url": "images/cryptocurrency-icons/adx.svg"
   },
   {
     "revision": "ce403f974ed934054101defaabd31d42",
     "url": "images/cryptocurrency-icons/ae.svg"
   },
   {
-    "revision": "e85885414eb9b26a9bdbbccf9d91c0b6",
-    "url": "images/cryptocurrency-icons/adx.svg"
+    "revision": "ef6bb3b2bf90896043e0055d918edc0f",
+    "url": "images/cryptocurrency-icons/ada.svg"
   },
   {
     "revision": "503a11e74b848cede5f6676e0f00204d",
@@ -76,6 +76,10 @@ self.__precacheManifest = [
   {
     "revision": "4d354b73b750edc3d735232818dfb22f",
     "url": "images/cryptocurrency-icons/agrs.svg"
+  },
+  {
+    "revision": "c14237c895ffabba7be7cbd57caab4c1",
+    "url": "images/cryptocurrency-icons/agi.svg"
   },
   {
     "revision": "9f37c8d4a65e4bea64240f9a017301ca",
@@ -90,16 +94,12 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/ant.svg"
   },
   {
-    "revision": "c14237c895ffabba7be7cbd57caab4c1",
-    "url": "images/cryptocurrency-icons/agi.svg"
+    "revision": "65be10f51c82a1086b43b76d231e13ab",
+    "url": "images/cryptocurrency-icons/apex.svg"
   },
   {
     "revision": "7796d85ad162b17759cea1d70c55ec5c",
     "url": "images/cryptocurrency-icons/amp.svg"
-  },
-  {
-    "revision": "65be10f51c82a1086b43b76d231e13ab",
-    "url": "images/cryptocurrency-icons/apex.svg"
   },
   {
     "revision": "496e1c442f2d0456f4af13e6457e07fc",
@@ -130,10 +130,6 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/ast.svg"
   },
   {
-    "revision": "c45155e81f489c446179a6bf48c74eca",
-    "url": "images/cryptocurrency-icons/atm.svg"
-  },
-  {
     "revision": "1033abcec7eded69edf3840d25c34b40",
     "url": "images/cryptocurrency-icons/audr.svg"
   },
@@ -142,16 +138,20 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/auto.svg"
   },
   {
-    "revision": "7da25d5b264e0fdc35c6b71cdc0fa3be",
-    "url": "images/cryptocurrency-icons/bab.svg"
+    "revision": "c45155e81f489c446179a6bf48c74eca",
+    "url": "images/cryptocurrency-icons/atm.svg"
+  },
+  {
+    "revision": "0092359ba674879a0bb8084163471408",
+    "url": "images/cryptocurrency-icons/bat.svg"
   },
   {
     "revision": "3543f3d1154362f8a2d9f86c5c0bd052",
     "url": "images/cryptocurrency-icons/aywa.svg"
   },
   {
-    "revision": "0092359ba674879a0bb8084163471408",
-    "url": "images/cryptocurrency-icons/bat.svg"
+    "revision": "7da25d5b264e0fdc35c6b71cdc0fa3be",
+    "url": "images/cryptocurrency-icons/bab.svg"
   },
   {
     "revision": "20a3d7a69d9cd079d702fa32166a0488",
@@ -170,52 +170,52 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/bcd.svg"
   },
   {
-    "revision": "dd0affc60619a1b2adcbd617def0909f",
-    "url": "images/cryptocurrency-icons/bch.svg"
-  },
-  {
     "revision": "3a79c228b4826471941c6edadfb214f3",
     "url": "images/cryptocurrency-icons/bcn.svg"
   },
   {
-    "revision": "c8419c35880c7028ec2797f72e93bda0",
-    "url": "images/cryptocurrency-icons/bela.svg"
-  },
-  {
-    "revision": "4b34a88cb0c706136be3136de74eb75b",
-    "url": "images/cryptocurrency-icons/bdl.svg"
-  },
-  {
-    "revision": "16bb8fe800a76a9e941fbda68228e697",
-    "url": "images/cryptocurrency-icons/bco.svg"
-  },
-  {
-    "revision": "4a7ac2c67992600fe0b91496726168e7",
-    "url": "images/cryptocurrency-icons/bix.svg"
+    "revision": "dd0affc60619a1b2adcbd617def0909f",
+    "url": "images/cryptocurrency-icons/bch.svg"
   },
   {
     "revision": "b51eee16c9f09d80d521818513dda852",
     "url": "images/cryptocurrency-icons/bcpt.svg"
   },
   {
-    "revision": "187f2770ce5ac1fc25ee480db9dac96f",
-    "url": "images/cryptocurrency-icons/blcn.svg"
+    "revision": "16bb8fe800a76a9e941fbda68228e697",
+    "url": "images/cryptocurrency-icons/bco.svg"
+  },
+  {
+    "revision": "4b34a88cb0c706136be3136de74eb75b",
+    "url": "images/cryptocurrency-icons/bdl.svg"
+  },
+  {
+    "revision": "c8419c35880c7028ec2797f72e93bda0",
+    "url": "images/cryptocurrency-icons/bela.svg"
+  },
+  {
+    "revision": "4a7ac2c67992600fe0b91496726168e7",
+    "url": "images/cryptocurrency-icons/bix.svg"
   },
   {
     "revision": "b22e7b37cfa00ac64e5efe3a13843d21",
     "url": "images/cryptocurrency-icons/block.svg"
   },
   {
+    "revision": "187f2770ce5ac1fc25ee480db9dac96f",
+    "url": "images/cryptocurrency-icons/blcn.svg"
+  },
+  {
     "revision": "c2d112374587cb2974782acd7cdd9b63",
     "url": "images/cryptocurrency-icons/blk.svg"
   },
   {
-    "revision": "ad2a715f07a3180bbae0e906b587ecf6",
-    "url": "images/cryptocurrency-icons/bnb.svg"
-  },
-  {
     "revision": "3992e92d825b445d73393506059e567f",
     "url": "images/cryptocurrency-icons/blz.svg"
+  },
+  {
+    "revision": "ad2a715f07a3180bbae0e906b587ecf6",
+    "url": "images/cryptocurrency-icons/bnb.svg"
   },
   {
     "revision": "8eb0fa81ba3b96030943499b6a9b8b6f",
@@ -226,40 +226,32 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/bnty.svg"
   },
   {
-    "revision": "82134c9fce68233b457ca7698b7b84ac",
-    "url": "images/cryptocurrency-icons/bos.svg"
-  },
-  {
     "revision": "0c7f429f801346687779679af6bc3ae4",
     "url": "images/cryptocurrency-icons/booty.svg"
   },
   {
-    "revision": "30f0d823a4edb4bc3ba2f6bea9ef5fb9",
-    "url": "images/cryptocurrency-icons/bq.svg"
-  },
-  {
-    "revision": "16c769f044d7ee17f0ef82a0af7ed490",
-    "url": "images/cryptocurrency-icons/brd.svg"
+    "revision": "82134c9fce68233b457ca7698b7b84ac",
+    "url": "images/cryptocurrency-icons/bos.svg"
   },
   {
     "revision": "7106d8f1990cefcef5a893ca5dff288d",
     "url": "images/cryptocurrency-icons/bpt.svg"
   },
   {
+    "revision": "30f0d823a4edb4bc3ba2f6bea9ef5fb9",
+    "url": "images/cryptocurrency-icons/bq.svg"
+  },
+  {
     "revision": "37f08fc69638bff7aacd9513d1f5f6ca",
     "url": "images/cryptocurrency-icons/bsd.svg"
   },
   {
-    "revision": "18c5b89ad92c52c30022b8a55f073d92",
-    "url": "images/cryptocurrency-icons/btc.svg"
+    "revision": "16c769f044d7ee17f0ef82a0af7ed490",
+    "url": "images/cryptocurrency-icons/brd.svg"
   },
   {
     "revision": "429092c1d1af63e6a37bbee64b62ad8a",
     "url": "images/cryptocurrency-icons/btcd.svg"
-  },
-  {
-    "revision": "e99813b08cac0d5bdb34be4d8347581a",
-    "url": "images/cryptocurrency-icons/btch.svg"
   },
   {
     "revision": "c3283410ff12520616a72431e0b7cdff",
@@ -270,12 +262,24 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/btcp.svg"
   },
   {
+    "revision": "18c5b89ad92c52c30022b8a55f073d92",
+    "url": "images/cryptocurrency-icons/btc.svg"
+  },
+  {
+    "revision": "e99813b08cac0d5bdb34be4d8347581a",
+    "url": "images/cryptocurrency-icons/btch.svg"
+  },
+  {
     "revision": "4b13a4b5432ac2a58e2204438aba2788",
     "url": "images/cryptocurrency-icons/btcz.svg"
   },
   {
     "revision": "9220adfd9c4d65f4033dc3e8a9460ac4",
     "url": "images/cryptocurrency-icons/btdx.svg"
+  },
+  {
+    "revision": "463e6400b8f926674e4c3dc4885eec7e",
+    "url": "images/cryptocurrency-icons/btm.svg"
   },
   {
     "revision": "46ae210202d0dd34b3f7e5e86ba22046",
@@ -286,40 +290,36 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/bts.svg"
   },
   {
-    "revision": "463e6400b8f926674e4c3dc4885eec7e",
-    "url": "images/cryptocurrency-icons/btm.svg"
-  },
-  {
-    "revision": "3eb7f512f9bb0441ec80a03cff0ff54e",
-    "url": "images/cryptocurrency-icons/btx.svg"
+    "revision": "4f68cab820fa9407c136044dc300fa34",
+    "url": "images/cryptocurrency-icons/burst.svg"
   },
   {
     "revision": "8ed971372aebcec3a7f1e274f4ab54bc",
     "url": "images/cryptocurrency-icons/call.svg"
   },
   {
-    "revision": "eda2b48da9f30ba37f5f40dcbba314f7",
-    "url": "images/cryptocurrency-icons/cc.svg"
+    "revision": "3eb7f512f9bb0441ec80a03cff0ff54e",
+    "url": "images/cryptocurrency-icons/btx.svg"
   },
   {
-    "revision": "4f68cab820fa9407c136044dc300fa34",
-    "url": "images/cryptocurrency-icons/burst.svg"
+    "revision": "d0c83d2dc8ed8e31410fe26e27212475",
+    "url": "images/cryptocurrency-icons/cdn.svg"
+  },
+  {
+    "revision": "eda2b48da9f30ba37f5f40dcbba314f7",
+    "url": "images/cryptocurrency-icons/cc.svg"
   },
   {
     "revision": "696bc9682def3b44585de5ec3861933d",
     "url": "images/cryptocurrency-icons/cdt.svg"
   },
   {
-    "revision": "434b88648410391a9520442bf324de2a",
-    "url": "images/cryptocurrency-icons/cenz.svg"
-  },
-  {
     "revision": "f54db1e54c70b179858ba4596f907372",
     "url": "images/cryptocurrency-icons/chain.svg"
   },
   {
-    "revision": "d0c83d2dc8ed8e31410fe26e27212475",
-    "url": "images/cryptocurrency-icons/cdn.svg"
+    "revision": "434b88648410391a9520442bf324de2a",
+    "url": "images/cryptocurrency-icons/cenz.svg"
   },
   {
     "revision": "66852cf04bc3b323f7b757a8c41c748b",
@@ -334,10 +334,6 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/cix.svg"
   },
   {
-    "revision": "e4c2be42998eb28de00d848ffe693878",
-    "url": "images/cryptocurrency-icons/clam.svg"
-  },
-  {
     "revision": "c97daf9765f1a96aaf69debcd9dda374",
     "url": "images/cryptocurrency-icons/cloak.svg"
   },
@@ -346,36 +342,40 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/cmm.svg"
   },
   {
-    "revision": "59f87eeb552713addd811c5e46dea5ee",
-    "url": "images/cryptocurrency-icons/cnd.svg"
-  },
-  {
-    "revision": "7f7b6cc9a45e34cc13b7f20cc28098f0",
-    "url": "images/cryptocurrency-icons/cob.svg"
-  },
-  {
-    "revision": "3394aa44795ecf3b224448f8c919ce10",
-    "url": "images/cryptocurrency-icons/cnx.svg"
+    "revision": "e4c2be42998eb28de00d848ffe693878",
+    "url": "images/cryptocurrency-icons/clam.svg"
   },
   {
     "revision": "a31d068282a4f00d6b8d92d50033b2f6",
     "url": "images/cryptocurrency-icons/cmt.svg"
   },
   {
-    "revision": "be08f5660ee4a87c6435030eea4946b3",
-    "url": "images/cryptocurrency-icons/colx.svg"
-  },
-  {
-    "revision": "d2eaa6db4393410afa361ecc2bb1e5de",
-    "url": "images/cryptocurrency-icons/cred.svg"
+    "revision": "3394aa44795ecf3b224448f8c919ce10",
+    "url": "images/cryptocurrency-icons/cnx.svg"
   },
   {
     "revision": "68384c8b22cb935c6a13798c2081b572",
     "url": "images/cryptocurrency-icons/cny.svg"
   },
   {
+    "revision": "7f7b6cc9a45e34cc13b7f20cc28098f0",
+    "url": "images/cryptocurrency-icons/cob.svg"
+  },
+  {
+    "revision": "59f87eeb552713addd811c5e46dea5ee",
+    "url": "images/cryptocurrency-icons/cnd.svg"
+  },
+  {
+    "revision": "be08f5660ee4a87c6435030eea4946b3",
+    "url": "images/cryptocurrency-icons/colx.svg"
+  },
+  {
     "revision": "e3f79173c619d839a63fb92b3cd0a394",
     "url": "images/cryptocurrency-icons/coqui.svg"
+  },
+  {
+    "revision": "d2eaa6db4393410afa361ecc2bb1e5de",
+    "url": "images/cryptocurrency-icons/cred.svg"
   },
   {
     "revision": "e523077b2de5f745ed91e77c3c5ed4d1",
@@ -386,16 +386,16 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/crw.svg"
   },
   {
-    "revision": "31f54fdfba819624f9ae9ae5eb5ec600",
-    "url": "images/cryptocurrency-icons/cs.svg"
+    "revision": "2a4cf23353e7b8c4b9e6e3a67c49be40",
+    "url": "images/cryptocurrency-icons/ctr.svg"
   },
   {
     "revision": "b92867308e8ec8bb0084a51836a0e756",
     "url": "images/cryptocurrency-icons/ctxc.svg"
   },
   {
-    "revision": "2a4cf23353e7b8c4b9e6e3a67c49be40",
-    "url": "images/cryptocurrency-icons/ctr.svg"
+    "revision": "31f54fdfba819624f9ae9ae5eb5ec600",
+    "url": "images/cryptocurrency-icons/cs.svg"
   },
   {
     "revision": "e988ce2daff8cacc7bc90889c72a7e20",
@@ -414,20 +414,20 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/data.svg"
   },
   {
-    "revision": "9400c154fa8f337a47a422d0e607c443",
-    "url": "images/cryptocurrency-icons/dbc.svg"
-  },
-  {
     "revision": "7f4970e42eca4f32b04fefea641bee37",
     "url": "images/cryptocurrency-icons/dcn.svg"
   },
   {
-    "revision": "def23b9ea26a97202245af74b77e2d26",
-    "url": "images/cryptocurrency-icons/deez.svg"
-  },
-  {
     "revision": "5649e7d63bb689b1b2b0271005b5fa49",
     "url": "images/cryptocurrency-icons/dcr.svg"
+  },
+  {
+    "revision": "9400c154fa8f337a47a422d0e607c443",
+    "url": "images/cryptocurrency-icons/dbc.svg"
+  },
+  {
+    "revision": "def23b9ea26a97202245af74b77e2d26",
+    "url": "images/cryptocurrency-icons/deez.svg"
   },
   {
     "revision": "e0002a3ba8b93e7f2ac2cb9b026893cb",
@@ -436,10 +436,6 @@ self.__precacheManifest = [
   {
     "revision": "8ebf76b1379651d9df88907d82ab1b38",
     "url": "images/cryptocurrency-icons/zilla.svg"
-  },
-  {
-    "revision": "80e1f2c96a61b0a8a2d527746e07d5cc",
-    "url": "images/cryptocurrency-icons/2give.svg"
   },
   {
     "revision": "8da66c97bbfbd4b2ad4e66bb323e1505",
@@ -462,32 +458,36 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/zel.svg"
   },
   {
+    "revision": "fcf75ce13cada1c6253cad376a99ced8",
+    "url": "images/cryptocurrency-icons/zec.svg"
+  },
+  {
     "revision": "7583988ec170a14f24c2b06a131a46f5",
     "url": "images/cryptocurrency-icons/dew.svg"
-  },
-  {
-    "revision": "4543dabed65d63bac2691e487a13e36f",
-    "url": "images/cryptocurrency-icons/dgd.svg"
-  },
-  {
-    "revision": "1db5b8cd9fee9773457a3184092ae482",
-    "url": "images/cryptocurrency-icons/dnt.svg"
   },
   {
     "revision": "521c58954f14fbf0e76d71bd9095a864",
     "url": "images/cryptocurrency-icons/dgb.svg"
   },
   {
-    "revision": "c16c8abdf9ef3740c1a88fc85a7ff3f3",
-    "url": "images/cryptocurrency-icons/dnr.svg"
+    "revision": "4543dabed65d63bac2691e487a13e36f",
+    "url": "images/cryptocurrency-icons/dgd.svg"
   },
   {
     "revision": "648a4166ef5650f000685e64af596d34",
     "url": "images/cryptocurrency-icons/dlt.svg"
   },
   {
+    "revision": "1db5b8cd9fee9773457a3184092ae482",
+    "url": "images/cryptocurrency-icons/dnt.svg"
+  },
+  {
     "revision": "12e1eebe016e5811468f14f4b99d66c3",
     "url": "images/cryptocurrency-icons/dock.svg"
+  },
+  {
+    "revision": "c16c8abdf9ef3740c1a88fc85a7ff3f3",
+    "url": "images/cryptocurrency-icons/dnr.svg"
   },
   {
     "revision": "c576bc6de068f0f053e7ed523af5a2a8",
@@ -510,12 +510,12 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/dth.svg"
   },
   {
-    "revision": "6e6e0e4711f455c923453169a3f701bd",
-    "url": "images/cryptocurrency-icons/dtr.svg"
-  },
-  {
     "revision": "ac9688cd44620859a25df6f19b604bad",
     "url": "images/cryptocurrency-icons/ebst.svg"
+  },
+  {
+    "revision": "6e6e0e4711f455c923453169a3f701bd",
+    "url": "images/cryptocurrency-icons/dtr.svg"
   },
   {
     "revision": "136ee28b67ad22344335c034c1781667",
@@ -598,12 +598,12 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/etn.svg"
   },
   {
-    "revision": "3f129966035fbe03750e11b269a994c4",
-    "url": "images/cryptocurrency-icons/eur.svg"
-  },
-  {
     "revision": "c848066b0d987c33fc89081ab373d9aa",
     "url": "images/cryptocurrency-icons/etp.svg"
+  },
+  {
+    "revision": "3f129966035fbe03750e11b269a994c4",
+    "url": "images/cryptocurrency-icons/eur.svg"
   },
   {
     "revision": "46e5740c0540a7a476369c546c1db552",
@@ -690,12 +690,12 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/gmr.svg"
   },
   {
-    "revision": "b0a904949c0d2b00e5bfecc4642bda83",
-    "url": "images/cryptocurrency-icons/gnt.svg"
-  },
-  {
     "revision": "38e3408d47221f6b280fdb633d2f7ee6",
     "url": "images/cryptocurrency-icons/gno.svg"
+  },
+  {
+    "revision": "b0a904949c0d2b00e5bfecc4642bda83",
+    "url": "images/cryptocurrency-icons/gnt.svg"
   },
   {
     "revision": "c15f70f1ac266b82fee648f48b0ade34",
@@ -718,10 +718,6 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/gto.svg"
   },
   {
-    "revision": "0325dd420b7c9f5732bd17174d683adb",
-    "url": "images/cryptocurrency-icons/gvt.svg"
-  },
-  {
     "revision": "783734cf78b781982fd5dee453d7c4e2",
     "url": "images/cryptocurrency-icons/gup.svg"
   },
@@ -730,12 +726,16 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/gusd.svg"
   },
   {
-    "revision": "56567ee1c6070804638438f5eec9380d",
-    "url": "images/cryptocurrency-icons/gzr.svg"
+    "revision": "0325dd420b7c9f5732bd17174d683adb",
+    "url": "images/cryptocurrency-icons/gvt.svg"
   },
   {
     "revision": "d5e3e00b46faa365846ca816228ec3f0",
     "url": "images/cryptocurrency-icons/gxs.svg"
+  },
+  {
+    "revision": "56567ee1c6070804638438f5eec9380d",
+    "url": "images/cryptocurrency-icons/gzr.svg"
   },
   {
     "revision": "9501a43bc7d366b94331fed1b395f514",
@@ -762,12 +762,12 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/html.svg"
   },
   {
-    "revision": "3db1b09cf07f6a38e1eef171da793a96",
-    "url": "images/cryptocurrency-icons/hush.svg"
-  },
-  {
     "revision": "9501101d213d4fd530fa56a99abb20ca",
     "url": "images/cryptocurrency-icons/huc.svg"
+  },
+  {
+    "revision": "3db1b09cf07f6a38e1eef171da793a96",
+    "url": "images/cryptocurrency-icons/hush.svg"
   },
   {
     "revision": "08c521f8966b39c3161989c9c5fdcd1d",
@@ -818,16 +818,16 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/jnt.svg"
   },
   {
+    "revision": "75fd6de7c9da422b85299ac48eed237e",
+    "url": "images/cryptocurrency-icons/jpy.svg"
+  },
+  {
     "revision": "1b91c2c446d8a0771de425ba2f819aed",
     "url": "images/cryptocurrency-icons/kcs.svg"
   },
   {
     "revision": "b36b561914d2a05495da6520acf15ad6",
     "url": "images/cryptocurrency-icons/kin.svg"
-  },
-  {
-    "revision": "75fd6de7c9da422b85299ac48eed237e",
-    "url": "images/cryptocurrency-icons/jpy.svg"
   },
   {
     "revision": "e6ae920b2e8e5d24fda771ca1a7e4a02",
@@ -838,8 +838,8 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/knc.svg"
   },
   {
-    "revision": "fcf75ce13cada1c6253cad376a99ced8",
-    "url": "images/cryptocurrency-icons/zec.svg"
+    "revision": "fd63561799bacff865b5ec9c8c3555fb",
+    "url": "images/cryptocurrency-icons/zcl.svg"
   },
   {
     "revision": "a5e35aaf99cf7a4071f33c677bd9b21a",
@@ -874,24 +874,24 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/lsk.svg"
   },
   {
+    "revision": "72e6e51ee5f5c5b5744aa9e87afb24f5",
+    "url": "images/cryptocurrency-icons/ltc.svg"
+  },
+  {
     "revision": "9578b740ac49bc7e80b280d56a768015",
     "url": "images/cryptocurrency-icons/lun.svg"
+  },
+  {
+    "revision": "5f5defe4b1bad12f9d8aa67f56b1cb13",
+    "url": "images/cryptocurrency-icons/maid.svg"
   },
   {
     "revision": "47be8565531fe3bc1efa8b81d5ffc384",
     "url": "images/cryptocurrency-icons/mana.svg"
   },
   {
-    "revision": "72e6e51ee5f5c5b5744aa9e87afb24f5",
-    "url": "images/cryptocurrency-icons/ltc.svg"
-  },
-  {
     "revision": "dd6b17473ca3162817929923812f6b26",
     "url": "images/cryptocurrency-icons/mcap.svg"
-  },
-  {
-    "revision": "5f5defe4b1bad12f9d8aa67f56b1cb13",
-    "url": "images/cryptocurrency-icons/maid.svg"
   },
   {
     "revision": "d0e180b6f427f54e883e0461d7c6a01f",
@@ -938,12 +938,12 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/moac.svg"
   },
   {
-    "revision": "a4acf9637f60381f8812cc5d887d7e0b",
-    "url": "images/cryptocurrency-icons/mona.svg"
-  },
-  {
     "revision": "a5c340e0a9cf56b7b7e28b42af54f9e6",
     "url": "images/cryptocurrency-icons/mod.svg"
+  },
+  {
+    "revision": "a4acf9637f60381f8812cc5d887d7e0b",
+    "url": "images/cryptocurrency-icons/mona.svg"
   },
   {
     "revision": "4899941afe1590308d29d337c0727414",
@@ -982,32 +982,32 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/ncash.svg"
   },
   {
-    "revision": "35cf2d7946e9c0f78280e8623512369f",
-    "url": "images/cryptocurrency-icons/nebl.svg"
-  },
-  {
     "revision": "952abf74c0be110f7a5052c52e14dd98",
     "url": "images/cryptocurrency-icons/ndz.svg"
+  },
+  {
+    "revision": "35cf2d7946e9c0f78280e8623512369f",
+    "url": "images/cryptocurrency-icons/nebl.svg"
   },
   {
     "revision": "8b012b1a336ecdcf51670c760751ea57",
     "url": "images/cryptocurrency-icons/neo.svg"
   },
   {
-    "revision": "d6d58f91c90a5683e2de6ca0224a0ef5",
-    "url": "images/cryptocurrency-icons/neu.svg"
-  },
-  {
     "revision": "d7fb2ddc9fa08d10169327038169ec69",
     "url": "images/cryptocurrency-icons/neos.svg"
   },
   {
-    "revision": "fe141d3401d44fa3aa9c14bfc915a00c",
-    "url": "images/cryptocurrency-icons/ngc.svg"
+    "revision": "d6d58f91c90a5683e2de6ca0224a0ef5",
+    "url": "images/cryptocurrency-icons/neu.svg"
   },
   {
     "revision": "092deef050402e0f65d4f68648153662",
     "url": "images/cryptocurrency-icons/nexo.svg"
+  },
+  {
+    "revision": "fe141d3401d44fa3aa9c14bfc915a00c",
+    "url": "images/cryptocurrency-icons/ngc.svg"
   },
   {
     "revision": "30862d03ddb0924d6792c5e20aafef04",
@@ -1042,12 +1042,12 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/nxt.svg"
   },
   {
-    "revision": "d0f4def67d4c933ca1c424e071f06be8",
-    "url": "images/cryptocurrency-icons/ok.svg"
-  },
-  {
     "revision": "9f49c55e06e0e58aafb8d5e706d54fe6",
     "url": "images/cryptocurrency-icons/oax.svg"
+  },
+  {
+    "revision": "d0f4def67d4c933ca1c424e071f06be8",
+    "url": "images/cryptocurrency-icons/ok.svg"
   },
   {
     "revision": "cc25dacb398993bbb6f90e764c2db7ee",
@@ -1074,12 +1074,12 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/ost.svg"
   },
   {
-    "revision": "3750ecd9399824d37381817ca6573def",
-    "url": "images/cryptocurrency-icons/part.svg"
-  },
-  {
     "revision": "5a0f09ff3a44dd0e40e119c8298531d3",
     "url": "images/cryptocurrency-icons/ox.svg"
+  },
+  {
+    "revision": "3750ecd9399824d37381817ca6573def",
+    "url": "images/cryptocurrency-icons/part.svg"
   },
   {
     "revision": "4c2cb427e5057210884ce81dd071f873",
@@ -1230,12 +1230,12 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/ric.svg"
   },
   {
-    "revision": "116d6dc836dc468e0d9726fc187448fc",
-    "url": "images/cryptocurrency-icons/rlc.svg"
-  },
-  {
     "revision": "a5b176c1d2854263683cf50244b7308d",
     "url": "images/cryptocurrency-icons/rise.svg"
+  },
+  {
+    "revision": "116d6dc836dc468e0d9726fc187448fc",
+    "url": "images/cryptocurrency-icons/rlc.svg"
   },
   {
     "revision": "f528eeaff6e19d06e55cdd47fa6e9309",
@@ -1250,12 +1250,12 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/rvn.svg"
   },
   {
-    "revision": "be9e4f466877be0bba2261905d6faf3a",
-    "url": "images/cryptocurrency-icons/safe.svg"
-  },
-  {
     "revision": "7347ef5465d1e326ed823f61061d4b64",
     "url": "images/cryptocurrency-icons/ryo.svg"
+  },
+  {
+    "revision": "be9e4f466877be0bba2261905d6faf3a",
+    "url": "images/cryptocurrency-icons/safe.svg"
   },
   {
     "revision": "95b9df83fceaaed7467bb30353a95de6",
@@ -1466,24 +1466,24 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/usd.svg"
   },
   {
-    "revision": "264c9c299e79380de7e7b3d2eba2fdfc",
-    "url": "images/cryptocurrency-icons/usdt.svg"
-  },
-  {
     "revision": "0fa13b6fca9f1204928df8649a6b7b3a",
     "url": "images/cryptocurrency-icons/usdc.svg"
+  },
+  {
+    "revision": "264c9c299e79380de7e7b3d2eba2fdfc",
+    "url": "images/cryptocurrency-icons/usdt.svg"
   },
   {
     "revision": "287ec68bf04f373305b6e524312be805",
     "url": "images/cryptocurrency-icons/utk.svg"
   },
   {
-    "revision": "b5f70a4a9428e3422c49e6c70c42eaa4",
-    "url": "images/cryptocurrency-icons/vet.svg"
-  },
-  {
     "revision": "2493b9d1a1873b3f1a3fee088cc8e25f",
     "url": "images/cryptocurrency-icons/veri.svg"
+  },
+  {
+    "revision": "b5f70a4a9428e3422c49e6c70c42eaa4",
+    "url": "images/cryptocurrency-icons/vet.svg"
   },
   {
     "revision": "a6416945c1f9be7f2b1a668a701c763e",
@@ -1550,16 +1550,12 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/wtc.svg"
   },
   {
-    "revision": "1130c6bf35af1550d762d5e07d55d185",
-    "url": "images/cryptocurrency-icons/xas.svg"
-  },
-  {
     "revision": "ab1c19f90f8e8a26acf1806dcdb5af91",
     "url": "images/cryptocurrency-icons/x.svg"
   },
   {
-    "revision": "3a1e883035ce85dea9ba7a1d0378b73b",
-    "url": "images/cryptocurrency-icons/xcp.svg"
+    "revision": "1130c6bf35af1550d762d5e07d55d185",
+    "url": "images/cryptocurrency-icons/xas.svg"
   },
   {
     "revision": "7436177966f1300f63efe5a63f3c69c0",
@@ -1570,16 +1566,20 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/xby.svg"
   },
   {
+    "revision": "3a1e883035ce85dea9ba7a1d0378b73b",
+    "url": "images/cryptocurrency-icons/xcp.svg"
+  },
+  {
     "revision": "2451454686df3bd18e1cda32e4c31d34",
     "url": "images/cryptocurrency-icons/xdn.svg"
   },
   {
-    "revision": "8d21fb55b4b09203cb0c41d7aedebe65",
-    "url": "images/cryptocurrency-icons/xin.svg"
-  },
-  {
     "revision": "f95b2123bf07eb2a5d2cdbd08e0798f2",
     "url": "images/cryptocurrency-icons/xem.svg"
+  },
+  {
+    "revision": "8d21fb55b4b09203cb0c41d7aedebe65",
+    "url": "images/cryptocurrency-icons/xin.svg"
   },
   {
     "revision": "3705ca1f8293dc30feec3f173429de2b",
@@ -1630,12 +1630,12 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/xtz.svg"
   },
   {
-    "revision": "5ba7c86c97fdbdd3445c0d6efe854901",
-    "url": "images/cryptocurrency-icons/xvc.svg"
-  },
-  {
     "revision": "e5ae3b33819018ad3c2ca16d51a194b8",
     "url": "images/cryptocurrency-icons/xuc.svg"
+  },
+  {
+    "revision": "5ba7c86c97fdbdd3445c0d6efe854901",
+    "url": "images/cryptocurrency-icons/xvc.svg"
   },
   {
     "revision": "18af8128e2fa3b84d53eec962467746d",
@@ -1650,8 +1650,8 @@ self.__precacheManifest = [
     "url": "images/cryptocurrency-icons/yoyow.svg"
   },
   {
-    "revision": "fd63561799bacff865b5ec9c8c3555fb",
-    "url": "images/cryptocurrency-icons/zcl.svg"
+    "revision": "e942b738de07700359748d40488ebdd5",
+    "url": "images/cryptocurrency-icons/$pac.svg"
   },
   {
     "revision": "608d9d7728a3de476da175f8cfb7449b",
@@ -1673,7 +1673,7 @@ self.__precacheManifest = [
     "url": "gestures.29a31d3896ae7e07ea8d.js"
   },
   {
-    "url": "app.296edd30b298a0aecbd5.js"
+    "url": "app.bec27f51fd40b4ea98f1.js"
   },
   {
     "url": "3box.1e964449616beff33a27.js"
